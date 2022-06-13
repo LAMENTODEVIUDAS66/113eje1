@@ -1,0 +1,46 @@
+*
+{
+	margin:10px;
+    padding:20px;
+}
+body{
+	background-color:cornsilk;
+    background-image:url("zoe1.jpg");
+	font-family:fantasy;
+}
+section
+{
+	height:;
+    background-color:#D7BDE2;
+}
+img
+{
+	width:250px;
+	height:250px;
+	background-color:#D7BDE2;
+}
+h1
+{
+	color:#4A235A;
+	text-align:center;
+	font-size:30px;
+	background-color:#D7BDE2;
+}
+p  
+{
+	text-align:justify;
+	color:black;
+	background-color:#A569BD;
+}
+table
+{
+	background-color:white;
+	width:30%;
+	height:30%;
+	border-spacing:7px;
+}
+td
+{
+	text-align:center;
+	font-family:Copperplate;
+}
