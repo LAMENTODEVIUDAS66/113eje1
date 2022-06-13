@@ -1,0 +1,58 @@
+*
+body{
+    background-image:url("zoe1.jpg");
+	:5px;
+	:5px;
+}
+{
+    font-family:verdana;
+	margin:5px;
+	padding:5px;
+}
+img
+{
+    height:10%;
+	width:10%;
+}
+h1
+{
+    color:red;
+	text-align:center;
+}
+header
+{
+    height:10%;
+	background-color:pink;
+}
+#cont1
+{
+    background-color:yellow;
+}
+@media screen and (max-width:500px)
+{
+   #cont1
+   {
+    background-color:green;
+    } 
+	section
+	{
+    background-color:orange;
+    } 
+    img
+	{
+    width:100px;
+	height:100px;
+    } 
+}
+@media screen and (min-width:500px)
+{
+   #cont1
+   {
+    background-color:blue;
+   } 
+   h1
+   {
+    color:blue;
+	text-decoration:underline;
+   } 
+   
