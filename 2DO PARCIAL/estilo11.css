@@ -1,0 +1,46 @@
+*
+{
+	margin:20px;
+    padding:20px;
+}
+body{
+	background-color:cornsilk;
+    background-image:url("mi3.jpg");
+	font-family:cursive;
+}
+section
+{
+	height:;
+    background-color:#FAD7A0 
+ ;
+}
+img
+{
+	width:200px;
+	height:200px;
+	background-color:#F8C471;
+}
+h1
+{
+	color:#CA6F1E;
+	text-align:center;
+	font-size:80px;
+	background-color:#F39C12;
+}
+p  
+{
+	text-align:justify;
+	color:black;
+}
+table
+{
+	background-color:white;
+	width:30%;
+	height:30%;
+	border-spacing:7px;
+}
+td
+{
+	text-align:center;
+	font-family:Copperplate;
+}
