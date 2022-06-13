@@ -1,0 +1,45 @@
+*
+{
+	margin:30px;
+    padding:30px;
+}
+body{
+	background-color:cornsilk;
+    background-image:url("mi2.jpg");
+	font-family:verdana;
+}
+section
+{
+	height:;
+    background-color:#515A5A;
+}
+img
+{
+	width:300px;
+	height:300px;
+	background-color:#3498DB;
+}
+h1
+{
+	color:#2874A6;
+	text-align:center;
+	font-size:40px;
+	background-color:#3498DB;
+}
+p  
+{
+	text-align:justify;
+	color:black;
+}
+table
+{
+	background-color:white;
+	width:30%;
+	height:30%;
+	border-spacing:7px;
+}
+td
+{
+	text-align:center;
+	font-family:Copperplate;
+}
